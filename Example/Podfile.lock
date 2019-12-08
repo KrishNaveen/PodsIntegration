@@ -1,0 +1,16 @@
+PODS:
+  - PodsIntegration (0.1.0)
+
+DEPENDENCIES:
+  - PodsIntegration (from `../`)
+
+EXTERNAL SOURCES:
+  PodsIntegration:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PodsIntegration: 94ce68a6be8df26e19160d384a64b612a3d03f9c
+
+PODFILE CHECKSUM: 67ec5eb99f72917d460a2f92099530cdea2abc6b
+
+COCOAPODS: 1.8.4

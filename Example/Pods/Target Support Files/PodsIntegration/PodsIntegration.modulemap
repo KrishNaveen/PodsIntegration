@@ -1,0 +1,6 @@
+framework module PodsIntegration {
+  umbrella header "PodsIntegration-umbrella.h"
+
+  export *
+  module * { export * }
+}
