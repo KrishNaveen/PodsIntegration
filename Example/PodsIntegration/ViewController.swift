@@ -7,11 +7,15 @@
 //
 
 import UIKit
+import PodsIntegration
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var animatedLabel: AnimatedLabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
+        animatedLabel.animate()
         // Do any additional setup after loading the view, typically from a nib.
     }
 
